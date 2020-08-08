@@ -21,8 +21,9 @@ I'm really into education and exposing more people to tech. I've had the absolut
 ## Non-tech Things I Like
 
 - MEMES
-- Movies
-- Music
+- Pretending to be a movie critic
+- Petting people's dogs
+- Listening to music (check out [my playlist of favorites](https://open.spotify.com/playlist/7kZOhNhhQXSldc6XQfa2K9?si=hlDL9wXbQ3WUp7lsYE-eug) here)
 - Memes
 - Reading
 - mEmeS
