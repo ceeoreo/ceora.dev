@@ -55,7 +55,12 @@ footer {
 	padding: 1em;
 }
 
-main {
+main { 
+	/* 🎯 trying to figure out how to center stuff on the page */
+	
+	/* display: flex;
+	flex-flow: column wrap;
+	align-items: center; */
 	padding-bottom: 2em;
 }
 
