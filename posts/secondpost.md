@@ -23,17 +23,17 @@ Here's an emoji key to help you navigate the list more easily.
 - 0️⃣ = Free resource
 - 0️⃣🤑 = Freemium resource
 
-
 ## **Books**
 
 ### 1. [Automate the Boring Stuff With Python](https://automatetheboringstuff.com/) 👩🏾‍💻0️⃣🤑
-This is probably the first thing someone recommended to me when I first started learning Python. It's an oldie but goodie and I highly recommend it. 
+This is probably the first thing someone recommended to me when I first started learning Python. It's an oldie but goodie and I highly recommend it.
 
 Navigating the free version of this book is a little tedious but that's what I used. You can also [purchase a hard copy or an ebook version](https://nostarch.com/automatestuff2) of Automate the Boring Stuff With Python.
 
 I love the exercises that are sparsed throughout the book. It gives you an opportunity to immediately apply what you learned. So I highly recommend this book as a starting point for anyone interested in Python.
 
 ### 2. [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/preface.html) 0️⃣🤑
+
 This is another book that is widely known in the Python community. I haven't read it yet. But I've only heard it's awesome. It's available for free but you can also [purchase the hard copy or ebook version](https://www.amazon.com/Learn-Python-Hard-Way-Introduction-ebook-dp-B07378P8W6/dp/B07378P8W6/ref=mt_kindle?_encoding=UTF8&me=&qid=) of Learn Python the Hard Way here.
 
 ## **Videos**
@@ -42,9 +42,10 @@ This is another book that is widely known in the Python community. I haven't rea
 
 I have yet to watch this video since it's more than 6 hours long which doesn't go over well in my brain. But the reason why I'm listing it here is because it's project-based.
 
-If you've read some of my other articles, you'll know that I am a HUGE proponent of project-based learning. With this video, you can learn Python by building 5 Games. This allows you to make direct application of what you're learning. 
+If you've read some of my other articles, you'll know that I am a HUGE proponent of project-based learning. With this video, you can learn Python by building 5 Games. This allows you to make direct application of what you're learning.
 
 ### 4. [The Come Up YouTube Channel](https://www.youtube.com/channel/UC-bFgwL_kFKLZA60AiB-CCQ)👩🏾‍💻0️⃣
+
 This is an awesome YouTube channel to know whether or not you're learning Python. Bukola Ayodele is a software engineer without a Computer Science degree and she makes videos with tips for people interested in getting into tech.
 
 I love her channel because she also makes videos about beginner-friendly Python projects. She has a few videos where she lists out the resources she used to become a Python developer. Her videos have helped me get a better idea of all the things I can build with Python. She paints a clear picture of how useful Python is.
