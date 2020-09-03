@@ -4,6 +4,7 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const slugify = require("slugify");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const pluginRss = require("@11ty/eleventy-plugin-rss")
 
 module.exports = function(eleventyConfig) {
 
@@ -35,6 +36,7 @@ module.exports = function(eleventyConfig) {
     return new CleanCSS({}).minify(code).styles;
   });
 
+  eleventyConfig.addPlugin(pluginRss);
   // Minify JS
   eleventyConfig.addFilter("jsmin", function(code) {
     let minified = UglifyJS.minify(code);
