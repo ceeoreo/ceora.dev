@@ -3,6 +3,7 @@ title: Introducing Learn AWS With Me ☁️
 summary: I'm starting a new blog series called "Learn AWS With Me" where I'll go through some core AWS concepts and services
 date: 2020-09-03T00:00:00.000Z
 tags:
+  - learn aws with me
   - aws
   - coding
   - learning
