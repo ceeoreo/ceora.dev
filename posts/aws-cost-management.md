@@ -1,7 +1,7 @@
 ---
 title: Never Get an Unexpected AWS Bill Again!
 summary: I'll break down how to make sure you don't get billed unexpectedly
-date: 2020-09-09T00:00:00.000Z
+date: 2020-08-09T00:00:00.000Z
 tags:
   - learn aws with me
   - aws
