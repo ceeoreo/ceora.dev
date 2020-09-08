@@ -8,7 +8,7 @@ tags:
   - learning
 ---
 
-One of the things that prevents a lot of people from exploring AWS is the cost. Some AWS services are very expensive. Accidently forgetting to cut something off and getting charged is the worst feeling. Trust me, I know.
+One of the things that prevents a lot of people from exploring AWS is the cost. Some AWS services are very expensive. Accidentally forgetting to cut something off and getting charged is the worst feeling. Trust me, I know.
 
 <img src="/static/img/aws-billp-meme.JPG" alt="Meme of guy looking confused. This how I am when I get an unexpected AWS bill" width="400">
 
