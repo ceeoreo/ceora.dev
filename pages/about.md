@@ -28,8 +28,10 @@ As far as next steps, I'm still figuring out what I want to do and where I want 
 
 - MEMES
 - Pretending to be a movie critic
+- HAMILTON
 - Petting people's dogs
 - Listening to music (check out [my playlist of favorites](https://open.spotify.com/playlist/7kZOhNhhQXSldc6XQfa2K9?si=hlDL9wXbQ3WUp7lsYE-eug) here)
 - Memes
+- Singing songs from Hamilton
 - Reading books and usually not finishing them
 - mEmeS
