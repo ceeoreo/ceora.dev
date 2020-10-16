@@ -2,6 +2,19 @@
 layout: layouts/base.njk
 section: post
 ---
+{% if postImage %}
+  <meta name="twitter:image" property="og:image" content="{{ https://res.cloudinary.com/ceeoreo/image/upload/w_1200,f_auto/l_text:Montserrat_80_bold_center:{{ title }},co_rgb:C4DEEE,c_fit,w_600/v1602814073/twit-card-background_icvhv5.png}}/{{ postImage }}" />
+  <meta name="twitter:image:alt" property="og:image:alt" content="{{ title }}" />
+{% else %}
+  <meta name="twitter:image" property="og:image" content="{{ site.meta.ogImg }}" />
+  <meta name="twitter:image:alt" property="og:image:alt" content="{{ site.meta.ogImgAlt }}" />
+{% endif %}
+
+
+<meta name="twitter:image" property="og:image" content="{{ site.cloudinary_url }}w_1200,f_auto/l_juanfernandes-logo,w_100,g_south_east,x_60,y_40/l_text:Georgia_80_bold_center:{{ title }},co_rgb:eee,c_fit,w_600/{{ postImage }}" />
+
+<meta name="twitter:image:alt" property="og:image:alt" content="{{ title }}" />
+
 
 <article>
   <h1>{{ title }}</h1>
