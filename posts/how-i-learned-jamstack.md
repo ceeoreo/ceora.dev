@@ -33,9 +33,9 @@ The only thing about this video is that it's really long. But there are time sta
 
 ## 3. I built projects
 
-Or I should say, I *started* projects. If you watch the panel, you'll notice that I specically mentioned two projects I started: [my blog](https://www.ceoraford.com/) and [dayintheline.dev](dayintheline.dev). I didn't have enough time to actually finish either of them before the panel.
+Or I should say, I *started* projects. If you watch the panel, you'll notice that I specically mentioned two projects I started: [my blog](https://www.ceoraford.com/) and [dayintheline.dev](https://www.dayinthelife.dev/). I didn't have enough time to actually finish either of them before the panel.
 
-My blog is done now (obviously) and I'm still working on [dayinthelife.dev](dayintheline.dev). Building a project allowed me to explore some of the different static site generators out there. (Eleventy is my favorite if you care.) I got to see *how* JAMstack works after learning what it is. Having this experience helped me to talk about JAMstack like I kind of knew what I was doing.
+My blog is done now (obviously) and I'm still working on [dayinthelife.dev](https://www.dayinthelife.dev/). Building a project allowed me to explore some of the different static site generators out there. (Eleventy is my favorite if you care.) I got to see *how* JAMstack works after learning what it is. Having this experience helped me to talk about JAMstack like I kind of knew what I was doing.
 
 ## What you can take away from this
 
