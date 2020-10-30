@@ -1,5 +1,5 @@
 ---
-title: Serverless Isn't Actually Serverless
+title: Wait... Serverless Isn't Actually Serverless??
 summary: In this lesson, I cover what cloud computing is and how serverless computing works. I also outline some useful serverless resources offered by AWS.
 date: 2020-10-30T00:00:00.000Z
 tags:
@@ -63,6 +63,6 @@ If you want to experiment with some of these resources, check out this [article 
 
 ## Conclusion
 
-Now that I understand what serverless is, I find it really fascinating! I'm now able to utilize serverless resources offered by AWS and other companies and it honestly makes my life so much easier (most of the time😂). With this new knowledge, you can jump into building and deploying amazing things! If you do, make sure to share with me!
+To sum all this up, no serverless is **not** actually serverless. Now that I understand what serverless is, I find it really fascinating! I'm now able to utilize serverless resources offered by AWS and other companies and it honestly makes my life so much easier (most of the time😂). With this new knowledge, you can jump into building and deploying amazing things! If you do, make sure to share with me!
 
 If there's an AWS topic you'd like me to cover, feel free to let me know in the comments below! Thanks for reading!!
