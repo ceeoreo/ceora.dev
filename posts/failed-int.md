@@ -46,6 +46,10 @@ Again, this is something I LOVE to do. Using pseudocode helps me to get my thoug
 
 **Disclaimer: this is purely my personal preference so please feel free to disregard this completely** This is something that might surprise you. But I tend to get a little jittery whenever I drink coffee. So whenever I have to do something that's nerve racking, I make sure to avoid coffee at all cost. I did not do that for this interview. I drank coffee because I hadn't slept and I thought it would help. But it just made me super jumpy and of course, I got the jitters. This made me more nervous and that made me panic. So yeah, as you can imagine, it was a disaster. Note to self: don't drink coffee before an interview.
 
+## 7. Don’t put too much pressure on yourself
+
+This one is hard. Most of us need to work and if you’re out of work, that makes any job interview very high pressure. For me, I really, really wanted this job. I was excited about the role and the people I would get to work with. So I put a lot of pressure on myself to impress and perform well. But all that pressure made me do the opposite. This is a tough one to follow but I’m going to try not to do this next time. I’m still figuring out how to get pass this reaction I have to any opportunity I’m excited about. If you have any tips, please share!!
+
 ---
 
 As you can see, a lot of my mistakes stemmed from lack of sleep. I'm not going to say that I'm the best at technical interviews. But I've never performed like this. There are some things I know how to do well and I just didn't do them this time around. And I'm 100% positive it's because I didn't get enough sleep. So if there's one thing you take away from this, it should be this: **Sleep is very important! So please try to get enough rest before your interview!!**
