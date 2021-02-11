@@ -12,7 +12,7 @@ I'm really into education and exposing more people to tech. I've had the absolut
 
 ## A brief overview of my tech journey
 
-I started "seriously" learning to code in January of 2019. But I didn't become vert consistent until January of 2020 when I received a scholarship for Udacity's Cloud DevOps Engineering program. Since then, I've switched my focus primarily to AWS, Python, and (more recently) DevOps tooling.
+I started "seriously" learning to code in January of 2019. But I didn't become very consistent until January of 2020 when I received a scholarship for Udacity's Cloud DevOps Engineering program. Since then, I've switched my focus primarily to AWS, Python, and (more recently) DevOps tooling.
 
 As far as next steps, I'm still figuring out what I want to do and where I want to be. So stay tuned because I'll definitely be sharing more about what the future holds.
 

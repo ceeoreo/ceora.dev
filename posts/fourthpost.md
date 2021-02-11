@@ -48,7 +48,7 @@ I mentioned this several times already but I would often just completely lose in
  
 ## **5. Relying on too many resources**
 
-When I first decided to learn how to code, I starting hoarding tons of resources. Anything that so much as included the word “code”, I bookmarked. I lost myself in blog posts that listen hundreds of resources and courses that teach online students how to code. I felt like I needed to try EVERY SINGLE ONE. So I would bounce between 5-10 different things at a time. I was basically going nowhere fast. With this in mind, I think it’s best to stick to just a few resources at a time. Trying to work through a bunch of courses at once might be too overwhelming.  Split your time between a couple of resources and personal projects that appeal to you. 
+When I first decided to learn how to code, I starting hoarding tons of resources. Anything that so much as included the word “code”, I bookmarked. I lost myself in blog posts that list hundreds of resources and courses that teach online students how to code. I felt like I needed to try EVERY SINGLE ONE. So I would bounce between 5-10 different things at a time. I was basically going nowhere fast. With this in mind, I think it’s best to stick to just a few resources at a time. Trying to work through a bunch of courses at once might be too overwhelming.  Split your time between a couple of resources and personal projects that appeal to you.
 
 _______________
 
