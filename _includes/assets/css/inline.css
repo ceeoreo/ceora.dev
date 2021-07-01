@@ -1,10 +1,10 @@
 :root {
-	--primary: #F5A281;
-	--secondary: white;
-	--background: #003366;
-	--tcolor: #97C8D6;
-	--yller: #F3CD86;
+	--primary: #F35B80;
+	--secondary: #FFC2E9;
+	--background: #0E0B52;
+	--tcolor: #C49FC1;
 }
+
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -15,6 +15,8 @@ body {
 	padding: 0;
 	margin: 0;
 	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	/* ont-family: 'Quicksand', sans-serif;
+font-family: 'Raleway', sans-serif; */
 }
 
 body {
@@ -53,6 +55,29 @@ header,
 main,
 footer {
 	padding: 1em;
+}
+
+h1 {
+  /* background: linear-gradient(to right, var(--primary) 20%, var(--primary) 40%, var(--primary) 60%, var(--tcolor) 80%);
+  background-size: 200% auto; */
+  	color: var(--primary);
+	-webkit-animation: hue 5s infinite linear;
+}
+
+@-webkit-keyframes hue {
+
+	0% {
+		color: var(--secondary)
+	}
+	25% {
+		color: var(--primary)
+	}
+	50% {
+		color: var(--tcolor)
+	}
+	100% {
+		color: var(--secondary)
+	}
 }
 
 main { 
@@ -96,7 +121,13 @@ header > em {
 }
 
 /* Header Nav */
+header {
+	display: flex;
+	justify-content: space-between;
+}
+
 header nav ul {
+	
 	padding: 0;
 	list-style: none;
 }
